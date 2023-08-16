@@ -2,28 +2,28 @@
 // you can also change class names since i have those as the name rn but you will have to change em in the index.html too
 const nameData = {
     malice: {
-      title: '@s1iced',
-      content: 'womp womp',
+      title: 'hazwashere',
+      content: hazwashere',
     },
     restrict: {
-      title: '@gunnar',
-      content: 'brut brut',
+      title: 'hazwashere',
+      content: 'hazwashere',
     },
     axx: {
-      title: '@tnk',
-      content: '@chromeeberreta on tt',
+      title: 'hazwashere',
+      content: 'hazwashere',
     },
     lewicide: {
-      title: '@nix',
-      content: '@nix',
+      title: 'hazwashere',
+      content: 'hazwashere',
     },
     listed: {
-      title: '@poison',
-      content: 'As the poison ran through her veins. She started to lose control',
+      title: 'hazwashere',
+      content: 'hazwashere',
     },
     riot: {
-      title: '@dayo',
-      content: "Dayo rhymes with Mayo",
+      title: 'hazwashere',
+      content: hazwashere",
     },
   };
   // Hello from salmon to anyone skidding this site :D
